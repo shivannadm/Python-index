@@ -45,3 +45,4 @@ while True:
     url = 'https://xkcd.com' + prev_link.get('href')
 
 print('All comics downloaded.')
+

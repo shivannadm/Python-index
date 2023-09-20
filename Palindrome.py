@@ -1,3 +1,5 @@
+#Palindrome
+
 num = int(input("Enter the number: "))
 val = str(num)
 if val==val[::-1]:

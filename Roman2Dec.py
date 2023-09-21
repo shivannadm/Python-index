@@ -18,6 +18,6 @@ def roman2dec(romastr):
     return value
 
 
-romanStr = int(input("Enter roman number: "))
+romanStr = input("Enter roman number: ")
 print(roman2dec(romanStr))
 

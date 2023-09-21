@@ -6,14 +6,15 @@ def roman2dec(romastr):
     romanBack = list(romastr)[::-1]
     value = 0
 
-    rightval = roman_dict[romanBack[0]]
+    rightVal = roman_dict[romanBack[0]]
     for numeral in romanBack:
-        leftval = roman_dict[numeral]
+        leftVal = roman_dict[numeral]
 
-    if leftval<rightval:
-        value -= leftval
-    else:
-        value += rightval
+        if leftVal<rightVal:
+            value -= leftVal
+        else:
+            value += leftVal
+        rightVal = leftVal
     return value
 
 

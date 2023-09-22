@@ -2,6 +2,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Font
 
 wb = Workbook() 
+
 sheet = wb.active
 sheet.title = "Language"
 wb.create_sheet(title = "Capital")

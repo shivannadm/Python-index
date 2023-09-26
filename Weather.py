@@ -1,3 +1,5 @@
+# the json file were aploaded in this repo , for corresponding this file
+
 import json
 
 with open('weather_data.json') as f:

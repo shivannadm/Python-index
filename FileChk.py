@@ -1,6 +1,3 @@
-
-# Checking the file 
-
 import os.path
 import sys
 

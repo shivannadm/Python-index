@@ -1,4 +1,3 @@
-# Checking the file with regular expression based
 import re
 
 phone_regex = re.compile(r'\+\d{12}')

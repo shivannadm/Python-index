@@ -1,4 +1,4 @@
-#Fibonacchi Number
+#Fibonacci Number
 
 def fib(n):
     if n==1:

@@ -17,7 +17,6 @@ def roman2dec(romastr):
         rightVal = leftVal
     return value
 
-
 romanStr = input("Enter roman number: ")
 print(roman2dec(romanStr))
 

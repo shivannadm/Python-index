@@ -2,7 +2,6 @@
 # Reading PDF using reguklar expressions
 
 import re
-
 phone_regex = re.compile(r'\+\d{12}')
 email_regex = re.compile(r'[A-Za-z0-9._]+@[A-Za-z0-9]+\.[A-Z|a-z]')
 with open('hi.txt', 'r') as f:

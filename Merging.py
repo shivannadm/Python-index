@@ -1,3 +1,4 @@
+
 # Two Pdf's need for merging the pages (e.g: birds.pdf,birdspic.pdf)
 
 from PyPDF2 import PdfWriter, PdfReader

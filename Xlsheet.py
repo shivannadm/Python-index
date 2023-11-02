@@ -66,4 +66,3 @@ for i in range(2,5):
         print("Corresponding language for code", srchCode, "is", sheet.cell(row = i, column = 2).value)
 
 wb.close()
-

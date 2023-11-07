@@ -1,2 +1,2 @@
 # Python-index
-basic Python programs
+Basic Python programs

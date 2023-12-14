@@ -1,3 +1,5 @@
+#Left angle Triangle (in numbers)
+
 x = 6
 for i in range(6):
     for j in range(i,6):
@@ -15,6 +17,7 @@ print("\n")
       3 3 3 3
     2 2 2 2 2
   1 1 1 1 1 1
+  
     '''
 
 

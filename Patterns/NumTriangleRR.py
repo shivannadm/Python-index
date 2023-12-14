@@ -1,4 +1,5 @@
 # Left angle triangle Mirror image(numbered)
+
 x = 0
 for i in range(6):
     for j in range(i+1):

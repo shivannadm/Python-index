@@ -21,6 +21,8 @@ print("\n")
     
 '''
 
+# Cros (X) pattern printing
+
 for i in range(7):
     for j in range(7):
         if (i == j) or (i + j == 7-1):

@@ -45,6 +45,8 @@ print("\n")
 
 '''
 
+
+# Outer Square and X pattern printing
 for i in range(7):
     for j in range(7):
         if (i == j) or (i + j == 7-1) or (i == 0 or i == 7-1) or (j == 0 or j == 7-1):

@@ -21,7 +21,7 @@ print("\n")
     
 '''
 
-# Cros (X) pattern printing
+# Cross (X) pattern printing
 
 for i in range(7):
     for j in range(7):

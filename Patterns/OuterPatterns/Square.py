@@ -1,4 +1,4 @@
-#Outer Square pattern printing
+# Outer Square pattern printing
 
 for i in range(6):
     for j in range(6):

@@ -69,7 +69,10 @@ print("\n")
     * * * * * * *
 
 '''
+
+
 # + pattern printing
+
 for i in range(7):
     for j in range(7):
         if (i == 6 // 2) or (j == 6 // 2):

@@ -1,3 +1,5 @@
+# Oter right angle pattern 
+
 for i in range(6):
     for j in range(i+1):
         if j == 0 or i == 6-1 or i == j: 

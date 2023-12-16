@@ -1,4 +1,5 @@
-#Right angle tringle mirror image
+#Right angle tringle Pttern
+
 for i in range(6):
     for j in range(i+1):
         print("*",end=' ')

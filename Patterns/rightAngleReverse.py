@@ -1,4 +1,4 @@
-#Right angle triangle mirror image
+#Right angle triangle mirror image pattern
 
 for i in range(6):
     for j in range(i,6):#(i=start condition,6=end condition)

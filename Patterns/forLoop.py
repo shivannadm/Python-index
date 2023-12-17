@@ -1,4 +1,4 @@
-# Binary number Pattern printing
+# Binary number printing (If needed more digits just add more for loops)
 
 for i in range(2):
     for j in range(2):

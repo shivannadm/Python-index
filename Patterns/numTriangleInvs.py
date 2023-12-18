@@ -1,4 +1,5 @@
-# Revers Number trianglw pattern
+# Revers Number triangle pattern
+
 x = 6
 for i in range(6):
     for j in range(i+1):

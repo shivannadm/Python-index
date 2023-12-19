@@ -9,6 +9,7 @@ for i in range(6):
     x -= 1
     print()
 print("\n")
+
 '''
     Output
             6

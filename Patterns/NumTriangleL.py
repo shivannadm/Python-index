@@ -43,6 +43,7 @@ print("\n")
 
 
 # Numbers with increasing order
+
 # p = 1
 # for i in range(6):
 #     for j in range(i,6):

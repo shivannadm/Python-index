@@ -56,7 +56,6 @@ for i in range(2,5):
     if data == srchCode:
         print("Corresponding capital for code", srchCode, "is", sheet.cell(row = i, column = 2).value)
         
-
 sheet = wb["Language"]
 
 srchCode = input("Enter state code for finding language ")

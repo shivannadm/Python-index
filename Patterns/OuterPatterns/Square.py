@@ -70,7 +70,6 @@ print("\n")
 
 '''
 
-
 # + pattern printing
 
 for i in range(7):

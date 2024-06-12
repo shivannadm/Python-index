@@ -1,4 +1,3 @@
-
 #Merge Sort
 
 import random

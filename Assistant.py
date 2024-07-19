@@ -1,4 +1,3 @@
-
 # You all need is only pip installations
 
 import pyttsx3  # pip install pyttsx3

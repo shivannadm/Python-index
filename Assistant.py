@@ -1,7 +1,7 @@
 # You all need is only pip installations
 
 import pyttsx3  # pip install pyttsx3
-import speech_recognition as sr  # pip install speechRecognition
+import speech_recognition as sr  # pip install speech recognition
 import datetime
 import wikipedia  # pip install wikipedia
 import webbrowser

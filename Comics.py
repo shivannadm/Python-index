@@ -1,5 +1,5 @@
 #Downloading the online Comics 
-#Basic Programms
+#Basic Programs
 import requests
 import os
 from bs4 import BeautifulSoup
